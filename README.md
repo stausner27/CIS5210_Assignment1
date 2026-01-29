@@ -1,4 +1,1 @@
-# CIS5210_Assignment1
-
-## AI Usage
-I used Figma's AI tooling to help implement my hi-fi prototype.
+I used ChatGPT to help me implement my hi-fi prototype of the Course Description page with the UI solution of integrating course and instructor data from Penn Course Review.

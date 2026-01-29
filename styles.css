@@ -32,7 +32,7 @@ body {
 
 /* Header */
 .header {
-  background: #990000; /* matches your TSX */
+  background: #990000; /* dark red */
   color: #ffffff;
   padding: 16px;
   display: flex;
